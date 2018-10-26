@@ -13,13 +13,11 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Zach Zeyu Wang
-email: zeyu.wang [at] yale.edu
-description: I am a PhD student in Computer Science at Yale University. My research interests include digital heritage, VR/AR, 3D graphics, visual perception, and artificial intelligence. Before coming to Yale, I received B.S. (Summa Cum Laude) from Department of Machine Intelligence, School of Electronics Engineering and Computer Science, Peking University in 2016.
+title: Aditya Saraf
+email: sarafa [at] cs.washington.edu
+description: I am an undergrad in Computer Science and Engineering at the University of Washington, where I'm projected to graduate Magna Cum Laude. I'm interested in CS PhD programs specializing in theory.  My current research interests include matching markets, graph theory, computational geometry, and applications of logic to computer science.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://zachzeyuwang.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-# linkedin_username: zachzeyuwang
-# github_username:  zachzeyuwang
+url: "https://adityasaraf.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 markdown: kramdown
