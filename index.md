@@ -13,6 +13,7 @@ layout: page_no_title
 		Hello and welcome to my portfolio.<br><br>
 		I am currently an undergrad in Computer Science and Engineering at the University of Washington, where I'm projected to graduate Magna Cum Laude. I'm interested in CS PhD programs specializing in theory.  My current research interests include matching markets, graph theory, computational geometry, and applications of logic to computer science. In the past, I've done research in Tech Policy/HCI and Natural Language Processing.<br><br>
 		In addition to my CS interests, I'm also narrowly interested in the intersection of Epistemology and logic. I'm minoring in Philosophy, and spent time taking graduate coursework in this area -- see Research for more. <br><br>
+		<a href="assets/documents/cv.pdf">[CV]</a><br>
 		<a href="https://www.researchgate.net/profile/Aditya_Saraf4">[ResearchGate]</a>
 		<a href="https://www.linkedin.com/in/aditya-saraf-83995214a/">[LinkedIn]</a>
 		<a href="https://github.com/AdityaSaraf">[GitHub]</a>
@@ -24,19 +25,14 @@ layout: page_no_title
 ## Research
 <table width="100%" align="center" border="0" cellspacing="0" cellpadding="0">
           <tr>
-            <!--td>
-              <div class="paper_pic_box">
-                <img src="images/paper_pics/emnlp18-data-2.png" width=135 height=100>
-              </div>
-            </td-->
             <td valign="top">
               <div class='paper_title'>
-                <a href="https://arxiv.org/abs/1809.08887"><i>Spider</i>: A Large-Scale Human-Labeled Dataset for Complex and Cross-Domain Semantic Parsing and Text-to-SQL Task</a>
+                <a href="assets/documents/hidden_graph.pdf">Trial and Error for Graph Properties</a>
               </div>
               <div class='paper_rest'>
-                <b>Tao Yu</b>, Rui Zhang, Kai Yang, Michihiro Yasunaga, Dongxu Wang, Zifan Li, James Ma, Irene Li, Qingning Yao, Shanelle Roman, Zilin Zhang and Dragomir Radev<br/>
-                <i>EMNLP 2018. Long Paper</i><br/>
-                [ <a href="https://arxiv.org/abs/1809.08887">paper</a> | <a href="files/emnlp2018_data.txt">bibtex</a> | <a href="https://github.com/taoyds/spider">code</a> | <a href="https://yale-lily.github.io/spider"><i><b><font color="red">project page</font></b></i></a> | <a href="https://medium.com/@tao.yu/spider-one-more-step-towards-natural-language-interfaces-to-databases-62298dc6df3c"><i><b><font color="red">blog</font></b></i></a>]
+                <b>Aditya Saraf</b>, Tommy Schneider, Aarthi Sundaram<br/>
+                <i>Working Draft</i><br/>
+                [ <a href="assets/documents/hiddengraph.pdf">paper</a> ]
               </div>
               <div class="paper_bottom_space"></div>
             </td>
@@ -44,12 +40,12 @@ layout: page_no_title
           <tr>
             <td valign="top">
               <div class='paper_title'>
-                <a href="https://arxiv.org/abs/1810.05237"><i>SyntaxSQLNet</i>: Syntax Tree Networks for Complex and Cross-Domain Text-to-SQL Task</a>
+                <a href="assets/documents/logical_normativity.pdf">A Strong Bridge Principle for Logical Normativity</a>
               </div>
               <div class='paper_rest'>
-                <b>Tao Yu</b>, Michihiro Yasunaga, Kai Yang, Rui Zhang, Dongxu Wang, Zifan Li and Dragomir Radev<br />
-                <i>EMNLP 2018. Long Paper</i><br />
-                [ <a href="https://arxiv.org/abs/1810.05237">paper</a> | <a href="files/emnlp2018_syntaxSQLNet.txt">bibtex</a> | <a href="https://github.com/taoyds/syntaxSQL">code</a>]
+                <b>Aditya Saraf</b><br/>
+                <i>Working Draft</i><br/>
+                [ <a href="assets/documents/logical_normativity.pdf">paper</a> ]
               </div>
               <div class="paper_bottom_space"></div>
             </td>
@@ -57,12 +53,12 @@ layout: page_no_title
           <tr>
             <td valign="top">
               <div class='paper_title'>
-                <a href="https://arxiv.org/abs/1804.09769"><i>TypeSQL</i>: Knowledge-based Type-Aware Neural Text-to-SQL Generation</a>
+                <a href="assets/documents/sds_paper.pdf">Evaluation of Neural and Non-Neural Techniques for Extractive Single Document Summarization</a>
               </div>
               <div class='paper_rest'>
-                <b>Tao Yu</b>, Zifan Li, Zilin Zhang, Rui Zhang, Dragomir Radev<br />
-                <i>NAACL 2018. Short Paper</i><br />
-                [ <a href="https://arxiv.org/abs/1804.09769">paper</a> | <a href="files/naacl2018.txt">bibtex</a> | <a href="https://github.com/taoyds/typesql">code</a> ]
+                <b>Aditya Saraf</b>, Ron Fan<br/>
+                <i>Not seeking publication</i><br/>
+                [ <a href="assets/documents/sds_paper.pdf">paper</a> | <a href="assets/documents/sds_poster.pdf">poster</a> | <a href="https://github.com/AdityaSaraf/primeapeNLP">code</a> ]
               </div>
               <div class="paper_bottom_space"></div>
             </td>
@@ -70,48 +66,22 @@ layout: page_no_title
           <tr>
             <td valign="top">
               <div class='paper_title'>
-                <a href="https://link.springer.com/article/10.1007/s10590-017-9202-6">
-                    Cross-lingual Sentiment Transfer with Limited Resources
-                </a>
+                <a href="assets/documents/toys.pdf">Toys that Listen: A Study of Parents, Children, and Internet-Connected Toys</a>
               </div>
               <div class='paper_rest'>
-                Mohammad Sadegh Rasooli, Noura Farra, Axinia Radeva, <b>Tao Yu</b>, and Kathleen McKeown <br />
-                <i>Machine Translation, 2017. Long Paper</i><br/>
-                [ <a href="https://link.springer.com/article/10.1007/s10590-017-9202-6">paper</a> | <a href="files/mt2017.txt">bibtex</a> | <a href="https://github.com/rasoolims/senti-lstm">code</a> ]
+                Emily McReynolds, Sarah Hubbard, Timothy Lau, <b>Aditya Saraf</b>, Maya Cakmak, and Franziska Roesner<br/>
+                <i>Proceedings of CHI '17</i><br/>
+                [ <a href="assets/documents/toys.pdf">paper</a> | <a href="https://dl.acm.org/citation.cfm?doid=3025453.3025735">ACM DL</a> | <a href="assets/documents/toys_bibtex.txt">bibtex</a> ]
               </div>
               <div class="paper_bottom_space"></div>
             </td>
-          </tr>
-          <tr>
-            <td valign="top">
-              <div class='paper_title'>
-                  <a href="https://tac.nist.gov/publications/2016/participant.papers/TAC2016.Columbia_GWU.proceedings.pdf">
-                The Columbia-GWU System at the 2016 TAC KBP BeSt Evaluation
-                  </a>
-              </div>
-              <div class='paper_rest'>
-                Owen Rambow, <b>Tao Yu</b>, Axinia Radeva, Sardar Hamidian, Alexander R. Fabbri, Debanjan Ghosh, Christopher Hidey, Tianrui Peng, Mona Diab, Kathleen McKeown, Smaranda Muresan<br />
-                <i>Proceedings of the NIST TAC KBP Workshop, 2016. Long Paper</i><br />
-                [ <a href="https://tac.nist.gov/publications/2016/participant.papers/TAC2016.Columbia_GWU.proceedings.pdf">paper</a> | <a href="files/tac2016.txt">bibtex</a> | <a href="https://tac.nist.gov/publications/2016/presentations/TAC2016.KBP.BEST.Columbia_GWU.presentation.pdf">slides</a> ]
-              </div>
-              <div class="paper_bottom_space"></div>
-            </td>
-          </tr>
-          <tr>
-            <td valign="top">
-              <div class='paper_title'>
-                <a href="https://arxiv.org/abs/1708.03940">
-                    Leveraging Sparse and Dense Feature Combinations for Sentiment Classification
-                </a>
-              </div>
-              <div class='paper_rest'>
-                <b>Tao Yu</b>, Christopher Hidey, Owen Rambow, Kathleen McKeown <br/>
-                <i>arXiv 2017. Short Paper</i><br />
-                [ <a href="https://arxiv.org/abs/1708.03940">paper</a> | <a href="files/arxiv2017.txt">bibtex</a> | <a href="https://github.com/taoyds/nbsvm_pos">code</a>]
-              </div>
-            </td>
-          </tr>
-        </table>
+    	</tr>
+</table>
+
+## Teaching
+<table width="100%" align="center" border="0" cellspacing="0" cellpadding="0">
+</table>
+
 {% raw %}
 
 {% endraw %}
