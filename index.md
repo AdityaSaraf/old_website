@@ -76,7 +76,7 @@ layout: page_no_title
               <div class="paper_bottom_space"></div>
             </td>
     	</tr>
-</table>
+
 
 ## Teaching
 <table width="100%" align="center" border="0" cellspacing="0" cellpadding="0">
@@ -84,7 +84,7 @@ layout: page_no_title
 	<td valign="top">
       <b>CSE 311: Foundations of Computing I</b> Autumn 2018<br/>
       <i>Taught by</i>: Emina Torlak, Kevin Zatloukal<br/>
-      <i>Brief Description</i>: An introductory discrete math course, teaching students the basics of logic, set theory, induction, modular arithmetic, and formal languages.
+      <i>Brief Description</i>: An introductory discrete math course, teaching students the basics of logic, set theory, induction, modular arithmetic, and formal languages.<br/>
       <a href="https://courses.cs.washington.edu/courses/cse311/18au/">[Course Website]</a>
       <div class="paper_bottom_space"></div>
     </td>
@@ -93,7 +93,7 @@ layout: page_no_title
 	<td valign="top">
       <b>CSE 421: Introduction to Algorithms</b> Spring 2018<br/>
       <i>Taught by</i>: Yin-Tat Lee<br/>
-      <i>Brief Description</i>: A senior level class covering broad groups of algorithms: Dynamic Programming, Greedy Algorithms, Divide and Conquer, Max Flow, and NP-completeness.
+      <i>Brief Description</i>: A senior level class covering broad groups of algorithms: Dynamic Programming, Greedy Algorithms, Divide and Conquer, Max Flow, and NP-completeness.<br/>
       <a href="https://courses.cs.washington.edu/courses/cse421/18sp/">[Course Website]</a>
       <div class="paper_bottom_space"></div>
     </td>
