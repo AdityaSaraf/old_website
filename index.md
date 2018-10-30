@@ -23,64 +23,62 @@ layout: page_no_title
 
 
 ## Research
-<table width="100%" align="center" border="0" cellspacing="0" cellpadding="0">
-          <tr>
-            <td valign="top">
-              <div class='paper_title'>
-                <a href="assets/documents/hidden_graph.pdf">Trial and Error for Graph Properties</a>
-              </div>
-              <div class='paper_rest'>
-                <b>Aditya Saraf</b>, Tommy Schneider, Aarthi Sundaram<br/>
-                <i>Working Draft</i><br/>
-                [ <a href="assets/documents/hiddengraph.pdf">paper</a> ]
-              </div>
-              <div class="paper_bottom_space"></div>
-            </td>
-          </tr>
-          <tr>
-            <td valign="top">
-              <div class='paper_title'>
-                <a href="assets/documents/logical_normativity.pdf">A Strong Bridge Principle for Logical Normativity</a>
-              </div>
-              <div class='paper_rest'>
-                <b>Aditya Saraf</b><br/>
-                <i>Working Draft</i><br/>
-                [ <a href="assets/documents/logical_normativity.pdf">paper</a> ]
-              </div>
-              <div class="paper_bottom_space"></div>
-            </td>
-          </tr>
-          <tr>
-            <td valign="top">
-              <div class='paper_title'>
-                <a href="assets/documents/sds_paper.pdf">Evaluation of Neural and Non-Neural Techniques for Extractive Single Document Summarization</a>
-              </div>
-              <div class='paper_rest'>
-                <b>Aditya Saraf</b>, Ron Fan<br/>
-                <i>Not seeking publication</i><br/>
-                [ <a href="assets/documents/sds_paper.pdf">paper</a> | <a href="assets/documents/sds_poster.pdf">poster</a> | <a href="https://github.com/AdityaSaraf/primeapeNLP">code</a> ]
-              </div>
-              <div class="paper_bottom_space"></div>
-            </td>
-          </tr>
-          <tr>
-            <td valign="top">
-              <div class='paper_title'>
-                <a href="assets/documents/toys.pdf">Toys that Listen: A Study of Parents, Children, and Internet-Connected Toys</a>
-              </div>
-              <div class='paper_rest'>
-                Emily McReynolds, Sarah Hubbard, Timothy Lau, <b>Aditya Saraf</b>, Maya Cakmak, and Franziska Roesner<br/>
-                <i>Proceedings of CHI '17</i><br/>
-                [ <a href="assets/documents/toys.pdf">paper</a> | <a href="https://dl.acm.org/citation.cfm?doid=3025453.3025735">ACM DL</a> | <a href="assets/documents/toys_bibtex.txt">bibtex</a> ]
-              </div>
-              <div class="paper_bottom_space"></div>
-            </td>
-    	</tr>
-
+<table width="100%" align="center" border="0" cellspacing="0" cellpadding="0"><tr>
+	    <td valign="top">
+	      <div class='paper_title'>
+	        <a href="assets/documents/hidden_graph.pdf">Trial and Error for Graph Properties</a>
+	      </div>
+	      <div class='paper_rest'>
+	        <b>Aditya Saraf</b>, Tommy Schneider, Aarthi Sundaram<br/>
+	        <i>Working Draft</i><br/>
+	        [ <a href="assets/documents/hiddengraph.pdf">paper</a> ]
+	      </div>
+	      <div class="paper_bottom_space"></div>
+	    </td>
+	  </tr>
+	  <tr>
+	    <td valign="top">
+	      <div class='paper_title'>
+	        <a href="assets/documents/logical_normativity.pdf">A Strong Bridge Principle for Logical Normativity</a>
+	      </div>
+	      <div class='paper_rest'>
+	        <b>Aditya Saraf</b><br/>
+	        <i>Working Draft</i><br/>
+	        [ <a href="assets/documents/logical_normativity.pdf">paper</a> ]
+	      </div>
+	      <div class="paper_bottom_space"></div>
+	    </td>
+	  </tr>
+	  <tr>
+	    <td valign="top">
+	      <div class='paper_title'>
+	        <a href="assets/documents/sds_paper.pdf">Evaluation of Neural and Non-Neural Techniques for Extractive Single Document Summarization</a>
+	      </div>
+	      <div class='paper_rest'>
+	        <b>Aditya Saraf</b>, Ron Fan<br/>
+	        <i>Not seeking publication</i><br/>
+	        [ <a href="assets/documents/sds_paper.pdf">paper</a> | <a href="assets/documents/sds_poster.pdf">poster</a> | <a href="https://github.com/AdityaSaraf/primeapeNLP">code</a> ]
+	      </div>
+	      <div class="paper_bottom_space"></div>
+	    </td>
+	  </tr>
+	  <tr>
+	    <td valign="top">
+	      <div class='paper_title'>
+	        <a href="assets/documents/toys.pdf">Toys that Listen: A Study of Parents, Children, and Internet-Connected Toys</a>
+	      </div>
+	      <div class='paper_rest'>
+	        Emily McReynolds, Sarah Hubbard, Timothy Lau, <b>Aditya Saraf</b>, Maya Cakmak, and Franziska Roesner<br/>
+	        <i>Proceedings of CHI '17</i><br/>
+	        [ <a href="assets/documents/toys.pdf">paper</a> | <a href="https://dl.acm.org/citation.cfm?doid=3025453.3025735">ACM DL</a> | <a href="assets/documents/toys_bibtex.txt">bibtex</a> ]
+	      </div>
+	      <div class="paper_bottom_space"></div>
+	    </td>
+	</tr>
+</table>
 
 ## Teaching
-<table width="100%" align="center" border="0" cellspacing="0" cellpadding="0">
-  <tr>
+<table width="100%" align="center" border="0" cellspacing="0" cellpadding="0"><tr>
 	<td valign="top">
       <b>CSE 311: Foundations of Computing I</b> Autumn 2018<br/>
       <i>Taught by</i>: Emina Torlak, Kevin Zatloukal<br/>
