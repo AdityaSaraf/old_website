@@ -12,7 +12,13 @@ layout: page_no_title
 	<td style="border:0px">
 		Hello and welcome to my portfolio.<br><br>
 		I am currently an undergrad in Computer Science and Engineering at the University of Washington, where I'm projected to graduate Magna Cum Laude. I'm interested in CS PhD programs specializing in theory.  My current research interests include game theory, graph theory, and complexity theory. In particular, I've done work on CSPs and graph problems in a hidden setting. And I'm currently trying to model altruism in kidney exchanges to design incentive schemes for kidney donors. I'm also interested in some parts of computational biology (such as using DNA for data storage), computational geometry, and automata theory. In the past, I've done research in Tech Policy/HCI and Natural Language Processing.<br><br>
+	</td>
+</tr>
+<tr style="border:0px">
+	<td style="border:0px">
 		In addition to my CS interests, I'm also narrowly interested in Epistemology. I'm minoring in Philosophy, and spent time taking graduate coursework in this area. Below, you can find my paper on why logic should be normative for reasoning (specifically, why an agent is not as they ought to be if they don't form beliefs according to logical laws).	For another project, I'm trying to show that principles such as the likelihood principle follow from weak, qualitative requirements on rationality (such as preference rankings).<br><br>
+	</td>
+	<td style="border:0px">		
 		Below is a link to an extended version of my Statement of Purpose for graduate programs. I elaborate more on my research experience -- especially for my non-theory research projects.<br><br>
 		<a href="assets/documents/cv.pdf">[CV]</a><a href="assets/documents/sop.pdf">[Extended Statement of Purpose]</a><br>
 		<a href="https://www.researchgate.net/profile/Aditya_Saraf4">[ResearchGate]</a>
