@@ -7,7 +7,7 @@ layout: page_no_title
 <table style="border:0px">
 <tr style="border:0px">
 	<td style="border:0px">
-		<img src="assets/images/me.jpg"/>
+		<img src="assets/images/me.jpg" width="600px" />
 	</td>
 	<td style="border:0px">
 		Hello and welcome to my portfolio.<br><br>
