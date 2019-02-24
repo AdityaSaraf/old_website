@@ -7,7 +7,7 @@ layout: page_no_title
 <table style="border:0px">
 <tr style="border:0px">
 	<td style="border:0px">
-		<img src="assets/images/me.jpg" style="transform:rotate(90deg);" border="2" />
+		<img src="assets/images/me.jpg" border="2" />
 	</td>
 	<td style="border:0px">
 		Hello and welcome to my portfolio.<br><br>
