@@ -174,10 +174,10 @@ pre {
 /**
  * Clearfix
  */
-/*.wrapper:after, .footer-col-wrapper:after {
+.wrapper:after, .footer-col-wrapper:after {
   content: "";
   display: table;
-  clear: both; }*/
+  clear: both; }
 
 /**
  * Icons
