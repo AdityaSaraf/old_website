@@ -103,7 +103,6 @@ layout: page_no_title
       <div class="paper_bottom_space"></div>
     </td>
   </tr>
-  <tr>
 </table>
 
 {% raw %}
